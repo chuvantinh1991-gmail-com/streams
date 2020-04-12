@@ -1,0 +1,19 @@
+Name of sensor is: Winter
+Date time : 1586728962205
+Value : 50.266838
+
+
+Name of sensor is: Winter
+Date time : 1586728962205
+Value : 50.266838
+
+
+Name of sensor is: Winter
+Date time : 1586728962205
+Value : 50.266838
+
+
+Name of sensor is: Winter
+Date time : 1586728962205
+Value : 50.266838
+
