@@ -1,3 +1,4 @@
+import java.io.*;
 import java.util.Random;
 
 public class Sensor {
@@ -9,6 +10,10 @@ public class Sensor {
         this.name = name;
         this.created_at = System.currentTimeMillis();
         this.value = this.createRandomValue(1, 100);
+    }
+
+    public String getName(){
+        return this.name;
     }
 
     public float createRandomValue(float min, float max){

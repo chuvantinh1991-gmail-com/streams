@@ -1,19 +1,10 @@
-Name of sensor is: Winter
-Date time : 1586728962205
-Value : 50.266838
+Name of sensor is: Spring
+Date time : 1587502740020
+Value : 34.724625
 
 
-Name of sensor is: Winter
-Date time : 1586728962205
-Value : 50.266838
+Name of sensor is: Sommer
+Date time : 1587502740020
+Value : 76.271675
 
-
-Name of sensor is: Winter
-Date time : 1586728962205
-Value : 50.266838
-
-
-Name of sensor is: Winter
-Date time : 1586728962205
-Value : 50.266838
 
